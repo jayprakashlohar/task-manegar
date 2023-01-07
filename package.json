@@ -1,0 +1,24 @@
+{
+  "name": "task-manegar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayprakashlohar/task-manegar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayprakashlohar/task-manegar/issues"
+  },
+  "homepage": "https://github.com/jayprakashlohar/task-manegar#readme",
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "nodemon": "^2.0.20"
+  }
+}
